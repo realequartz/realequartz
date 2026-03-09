@@ -1,39 +1,46 @@
-# Hi there, I'm Eduardo Alves :eyeglasses:
+# Eduardo Alves
 
-Ever since I finished my college in 2020 I've been looking for my way in this digital world. Currently I'm focused on web and mobile development.
+Junior Back-end Developer focused on Java and Spring Boot.
 
-I'm also interested in UI/UX Design, so at some point we'll have a portfolio for you to check out.
+I am building my career in back-end development, with a strong interest in REST API design, database integration, automated testing, and clean, maintainable applications.
 
-If you find any mess, sorry, I'm still cleaning it up!
+My professional background includes experience with system maintenance, quality assurance, validation processes, and support for web-based platforms, which helped me develop a strong sense of software quality, problem-solving, and collaboration with cross-functional teams.
 
-## What I'm learning
+## Tech Stack
 
-I'm currently studying ReactJs and plan to post some related projects soon.
+**Languages**  
+Java • Kotlin • JavaScript • HTML • CSS
 
-## 🛠 &nbsp;Tech Stack
+**Back-end**  
+Spring Boot • Spring MVC • Spring Data JPA • Hibernate / JPA • REST • JSON
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=007396)
+**Database & Tools**  
+MySQL • Docker • Git • GitHub • Linux
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+**Testing & Practices**  
+JUnit 5 • Mockito • CI/CD concepts • Scrum • Kanban
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![JavaScript](https://img.shields.io/badge/-Android_Studio-333333?style=flat&logo=android)
-  ![JavaScript](https://img.shields.io/badge/-Intellij_IDEA-333333?style=flat&logo=intellij-idea)
+## Professional Experience
 
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+**Systems Analyst — REDEC**  
+- Maintenance and improvement of web and educational platforms  
+- Functional testing and QA support  
+- Validation of digital products and technical adjustments  
+- Collaboration with business and content teams to improve usability and delivery quality  
 
-## You can find me here :globe_with_meridians:
-<a href="https://www.linkedin.com/in/realequartz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo_Alves-blue?style=flat-square&logo=linkedin"></a>
+## Education
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realequartz)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realequartz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Systems Analysis and Development**  
+UNIP — Universidade Paulista
+
+## Certifications
+
+Alura — Java, Spring Framework, Kotlin, and Android
+
+## Languages
+
+Portuguese (Fluent) • English (Advanced) • French (Intermediate)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/realequartz/)
